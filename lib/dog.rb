@@ -1,2 +1,2 @@
-class Dog < ActiveRecord::SQLRunner
+class Dog < ActiveRecord::Base
 end
