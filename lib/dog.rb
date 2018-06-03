@@ -1,2 +1,2 @@
-class Dog
+class SQLRunner<Dog
 end
